@@ -10,7 +10,7 @@ function App() {
         <div className="App">
             <Title />
             <Intro nameOne="Felicia Moua" nameTwo="Alex Lowczyk"/>
-            <Hobby1 />
+            <Hobby1></Hobby1>
             <HobbyTwo></HobbyTwo>
         </div>
     )

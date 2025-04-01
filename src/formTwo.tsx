@@ -45,7 +45,7 @@ export function FormTwo(){
             <br/>
             <label htmlFor="submits">If You're Done Please Submit Here:</label>
             <br/>
-            <input type="button" id="submits" value="Submit"/>
+            <button type="submit">Submit</button>
             </form>
     </div>
     )

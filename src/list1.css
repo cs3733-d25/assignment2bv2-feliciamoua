@@ -8,23 +8,3 @@ ol {
     text-align: center;
     list-style-position: inside;
 }
-
-
-table.collapse {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 20px;
-}
-
-table.collapse,
-table.collapse th,
-table.collapse td {
-    border: 1px solid #333;
-}
-
-table.collapse th,
-table.collapse td {
-    padding: 10px;
-    text-align: left;
-    font-family: 'Georgia', serif;
-}

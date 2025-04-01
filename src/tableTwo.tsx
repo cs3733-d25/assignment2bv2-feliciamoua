@@ -1,8 +1,8 @@
-
+import './App.css'
 export function TableTwo(){
     return(
         <div>
-            <table className="collapses">
+            <table className="collapse">
                 <caption>My Experience Skiing</caption>
                 <tr>
                     <th>Mountain</th>
